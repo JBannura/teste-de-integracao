@@ -9,8 +9,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>Exercicio</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/JBannura/teste-de-integracao</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -54,14 +53,6 @@
             <artifactId>hsqldb</artifactId>
             <version>2.5.0</version>
         </dependency>
-        <!-- Dependencia do JavaFX -->
-        <!--
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-controls</artifactId>
-            <version>11</version>
-        </dependency>
-        --> 
     </dependencies>
 
   <build>
